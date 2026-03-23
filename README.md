@@ -5,11 +5,13 @@
 
 ## Skills集合
 
-https://skills.sh/
+- https://skills.sh/
+- https://github.com/MiniMax-AI/skills
 
 ## Subagents集合
 
-https://github.com/VoltAgent/awesome-claude-code-subagents
+- https://github.com/VoltAgent/awesome-claude-code-subagents
+- https://github.com/msitarzewski/agency-agents
 
 ## 记忆管理
 
@@ -39,3 +41,5 @@ github/awesome-copilot/gh-cli
 ## CUDA
 
 https://huggingface.co/blog/custom-cuda-kernels-agent-skills
+
+## PDF, Pptx, Docx
